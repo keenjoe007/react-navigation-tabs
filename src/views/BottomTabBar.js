@@ -1,5 +1,3 @@
-/* @flow */
-
 import React from 'react';
 import {
   Animated,
@@ -8,7 +6,7 @@ import {
   View,
   Platform,
 } from 'react-native';
-import SafeAreaView from 'react-navigation';
+import { SafeAreaView } from 'react-navigation';
 
 import CrossFadeIcon from './CrossFadeIcon';
 import withDimensions from '../utils/withDimensions';
