@@ -65,7 +65,7 @@
     "react": "16.3.1",
     "react-dom": "16.3.1",
     "react-native": "~0.55.4",
-    "react-navigation": "^2.1.0",
+    "react-navigation": "https://github.com/keenjoe007/react-navigation",
     "react-test-renderer": "16.2.0"
   },
   "peerDependencies": {
